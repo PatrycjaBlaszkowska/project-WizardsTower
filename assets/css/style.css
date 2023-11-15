@@ -7,6 +7,12 @@ body {
     font-weight: 300;
 }
 
+h3,
+h4 {
+    font-family: "Exo", sans-serif;
+    text-transform: capitalize;
+}
+
 /*Navigation bar section*/
 
 .navbar {
@@ -58,7 +64,6 @@ body {
 h4 {
     text-align: center;
     padding: 10px;
-    text-transform: capitalize;
 }
 
 #contact-us a {
@@ -83,6 +88,21 @@ h4 {
     background: url("../images/activities-divider.jpg") center center no-repeat;
     margin: 0;
     padding: 0;
+}
+
+/*find-us section (opening times and address)*/
+
+#find-us {
+    background-color: #000;
+    padding-top: 10px;
+}
+
+#opening-times {
+    text-transform: capitalize;
+}
+
+#business-address hr {
+    border: transparent;
 }
 
 /*footer*/
