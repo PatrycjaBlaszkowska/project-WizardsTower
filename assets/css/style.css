@@ -17,6 +17,11 @@ h4 {
     background-color: #000;
 }
 
+.clear {
+    clear: left;
+    text-align: center;
+}
+
 /*Navigation bar section*/
 
 .navbar {
@@ -212,16 +217,6 @@ footer {
     text-transform: capitalize;
 }
 
-#menu-cocktails {
-    width: 50%;
-    float: left;
-}
-
-#menu-mocktails {
-    width: 50%;
-    float: right;
-}
-
 /*media queries*/
 
 @media only screen and (max-width: 922px) {
@@ -238,8 +233,4 @@ footer {
         display: none;
     }
 
-    #menu-cocktails,
-    #menu-mocktails {
-        width: 100%;
-    }
 }
