@@ -119,6 +119,7 @@ footer {
     text-align: center;
     background-color: #505253;
     color: #ebe5e5;
+    height: 100px;
 }
 
 #social {
@@ -150,7 +151,7 @@ footer {
 .footer-links li {
     list-style-type: none;
     display: inline-block;
-    padding: 10px;
+    padding: 5px;
 }
 
 .footer-links li i {
@@ -160,7 +161,8 @@ footer {
 
 #copy-rights p {
     margin: 0;
-    padding: 10px;
+    padding-top: 5px;
+    height: 20px;
 }
 
 .grey i:hover,
@@ -217,6 +219,27 @@ footer {
     text-transform: capitalize;
 }
 
+/*new potions section*/
+
+
+#new-cocktails {
+    text-align: center;
+    font-size: 120%;
+    padding-bottom: 10px;
+}
+
+#new-cocktails h4 {
+    padding-top: 15px;
+    text-transform: uppercase;
+    font-weight: 800;
+}
+
+#new-cocktails a {
+    color: #fafafa;
+    font-weight: 800;
+}
+
+
 /*media queries*/
 
 @media only screen and (max-width: 922px) {
@@ -231,6 +254,15 @@ footer {
 
     #activities-divider {
         display: none;
+    }
+
+    #new-cocktails {
+        padding-bottom: 0px;
+    }
+
+    iframe {
+        width: 100%;
+        height: 315px;
     }
 
 }
