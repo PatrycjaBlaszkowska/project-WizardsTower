@@ -199,7 +199,7 @@ footer {
 
 .menu {
     font-family: "Exo", sans-serif;
-    background: url("/assets/images/menu-background.jpg") center center no-repeat;
+    background: url("../images/menu-background.jpg") center center no-repeat;
 }
 
 .menu h2 {
