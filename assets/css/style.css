@@ -244,6 +244,49 @@ footer {
     font-weight: 800;
 }
 
+/*contact-us section*/
+.form-section {
+    background: url("../images/contact-background.jpg") center center no-repeat;
+    height: 800px;
+}
+
+.contact-form {
+    margin-top: 100px;
+    color: #fff;
+    max-width: 400px;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 0);
+    padding: 30px;
+}
+
+.contact-form h2 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.contact-form h2 i {
+    font-size: 80%;
+}
+
+.text-input {
+    color: #fafafa;
+    background: transparent;
+    width: 100%;
+    margin: 5px 0 20px 0;
+    border: 1px solid #fafafa;
+    border-radius: 2px;
+}
+
+.contact-button {
+    color: #fafafa;
+    background-color: #505253;
+    border: 1px solid #fafafa;
+    border-radius: 2px;
+    text-transform: uppercase;
+    padding: 10px 20px;
+    font-weight: 800;
+}
 
 /*media queries*/
 
@@ -268,6 +311,11 @@ footer {
     iframe {
         width: 100%;
         height: 315px;
+    }
+
+    .contact-form {
+        margin: 80px auto;
+        width: 90%;
     }
 
 }
