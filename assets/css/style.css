@@ -287,6 +287,24 @@ footer {
     font-weight: 800;
 }
 
+/*thank-you page*/
+
+#thank-you {
+    text-align: center;
+    margin: 200px auto;
+}
+
+.thank-you-btn {
+    font-size: 150%;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.btn-dark {
+    border: 1px solid #fafafa;
+    border-radius: 5px;
+}
+
 /*media queries*/
 
 @media only screen and (max-width: 922px) {
