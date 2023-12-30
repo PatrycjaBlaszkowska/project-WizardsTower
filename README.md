@@ -1,6 +1,7 @@
 # Wizard's Tower
 
 [Link to a live site](https://patrycjablaszkowska.github.io/project-WizardsTower/)
+
 ![Responsive view of Wizzards Tower website](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/images/introduction-image.PNG)
 
 ## Introduction
