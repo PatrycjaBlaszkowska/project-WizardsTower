@@ -1,5 +1,8 @@
 # Wizard's Tower
 
+[Link to a live site](https://patrycjablaszkowska.github.io/project-WizardsTower/)
+![Responsive view of Wizzards Tower website](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/images/introduction-image.PNG)
+
 ## Introduction
 
 Welcome to my first project, part of the Code Institute Full Stack Development Course. The purpose of this project is to build a responsive website using HTML, CSS, and Bootstrap (optional) only.
@@ -9,7 +12,6 @@ The Wizard's Tower is a project for a fictional magic-themed cocktail bar inspir
 Users will be able to navigate through the website using a functional navigation bar. Wizard's Tower will offer for the user to see what the purpose of the business is on the home page.
 The user will also be able to see a menu of cocktails being served as well as contact the business via the contact form on the dedicated page.
 
-[Link to a live site](https://patrycjablaszkowska.github.io/project-WizardsTower/)
 
 #### Thank you for visiting Wizard's Tower
 
