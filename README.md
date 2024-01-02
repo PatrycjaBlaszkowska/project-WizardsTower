@@ -82,3 +82,26 @@ I thought of the features I wanted to implement before designing the project, an
 |E-mail conf    | 4             | 4             |
 |Google reviews | 4             | 4             |
 |Photo gallery  | 5             | 4             |
+
+## The Scope Plane
+
+### Colors
+
+#505253 :
+- Main background
+- Navigation bar
+- Footer
+- Buttons
+  
+#000 :
+- Background of some sections
+ 
+#FAFAFA :
+- Text
+- Borders
+- Icons
+
+#EBE5E5 :
+- Footer text
+- Social links
+- Icons
