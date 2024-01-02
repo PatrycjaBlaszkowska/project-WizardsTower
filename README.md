@@ -128,3 +128,7 @@ All images used in this project have been downloaded from:
 - Wallpapercave 
 
 ##### *More information in credits section.*
+
+## The Skeleton Plane
+
+I made some significant changes to my project. Some features have become unnecessary or have caused poor user experience, so I decided to remove them.
