@@ -114,6 +114,17 @@ Both fonts used in this project are Google Fonts.
 
 - I used Roboto as the main font. I decided to use Roboto as the main font, as it's one of the most popular and user-friendly fonts. The Roboto font is easy to read even on the smallest devices and provides a positive user experience.
 
-### Exo :
+#### Exo :
 
 - Exo font has been used for some headings but also for a navigation bar and menu section. Using a different font for these features helped me highlight important sections to user and made the website easier and quicker to navigate.
+
+### Images
+
+All images used in this project have been downloaded from:
+
+- Pinterest
+- Pixabay
+- Unsplash
+- Wallpapercave 
+
+##### *More information in credits section*
