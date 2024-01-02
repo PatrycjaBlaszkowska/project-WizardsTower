@@ -68,7 +68,7 @@ I thought of the features I wanted to implement before designing the project, an
 - An additional section showing customer reviews from Google. This will also be added to the home page.
 - An additional page for a photo gallery containing photos from activities like potions brewing.
 
-##### *Above decisions have been made based on below table*
+##### *Above decisions have been made based on below table.*
 
 | Feature       | Feasibility   | Importance    |
 | ------------- |:-------------:|:-------------:|
@@ -112,7 +112,7 @@ Both fonts used in this project are Google Fonts.
 
 #### Roboto :
 
-- I used Roboto as the main font. I decided to use Roboto as the main font, as it's one of the most popular and user-friendly fonts. The Roboto font is easy to read even on the smallest devices and provides a positive user experience.
+- I used Roboto as the main font, as it's one of the most popular and user-friendly fonts. The Roboto font is easy to read even on the smallest devices and provides a positive user experience.
 
 #### Exo :
 
@@ -127,4 +127,4 @@ All images used in this project have been downloaded from:
 - Unsplash
 - Wallpapercave 
 
-##### *More information in credits section*
+##### *More information in credits section.*
