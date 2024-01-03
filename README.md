@@ -132,3 +132,9 @@ All images used in this project have been downloaded from:
 ## The Skeleton Plane
 
 I made some significant changes to my project. Some features have become unnecessary or have caused poor user experience, so I decided to remove them.
+
+[Home page wireframes](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/wireframes/home.pdf)
+
+- I used a different hero photo for mobile devices with a width of the screen under 992 pixels, as the original photo was too big and looks unattractive when scaled.
+- I also made most content appear in two columns on the desktop instead of one for a better user experience.
+- The navigation bar has been moved to the left side on the mobile devices to provide some space between it and a logo. I made this decision to keep the navbar tidy and more user-friendly.
