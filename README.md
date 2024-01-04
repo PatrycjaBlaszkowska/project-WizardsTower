@@ -160,7 +160,7 @@ I made some significant changes to my project. Some features have become unneces
 
 - Navabar is present on every page, fully responsive across all resolutions.
 - Navbar toggles to a hamburger menu on mobile devices. 
-- Users can navigate across the site freely.
+- The user can navigate across the site freely.
 
 ### Footer :
 
@@ -178,11 +178,11 @@ I made some significant changes to my project. Some features have become unneces
 ### Menu section
 
 - Menu section contains information about all cocktails and mocktails business is currently serving. 
-- User is also informed about new cocktails coming shortly.
+- The user is also informed about new cocktails coming shortly.
 - This section also includes video showing new cocktails to encourage users to visit Wizzards Tower.
 
 ### Contact form
 
 - Allows users to contact businesses with any inquiries.
-- User is also able to book activities or a table via a contact form.
-- User is able to provide feedback to the business. 
+- The user is also able to book activities or a table via a contact form.
+- The user is able to provide feedback to the business. 
