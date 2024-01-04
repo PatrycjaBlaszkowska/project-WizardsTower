@@ -118,7 +118,7 @@ Both fonts used in this project are Google Fonts.
 
 - Exo font has been used for some headings but also for a navigation bar and menu section. Using a different font for these features helped me highlight important sections to user and made the website easier and quicker to navigate.
 
-### Images
+#### Images
 
 All images used in this project have been downloaded from:
 
@@ -151,3 +151,38 @@ I made some significant changes to my project. Some features have become unneces
 - Removed hero photo both from desktop and mobile view as it was taking users attention away from the content.
 - I decided to change the appearance of the contact form after doing my research. According to the information I obtained, the contact form I decided to use instead is more user-friendly and looks better.
 - The navigation bar has been moved to the left side on the mobile devices to provide some space between it and a logo. I made this decision to keep the navbar tidy and more user-friendly.
+
+## The Surface Plane
+
+### Features present across the project 
+
+### Navigation bar :
+
+- Navabar is present on every page, fully responsive across all resolutions.
+- Navbar toggles to a hamburger menu on mobile devices. 
+- Users can navigate across the site freely.
+
+### Footer :
+
+- Footer is present on every page, for the user who wishes to navigate to the pages from the bottom, rather than having to scroll up.
+- Footer contains social media links that are opening in a new tab.
+
+### Hero images
+
+- Included to draw the user's attention and show the purpose of the website right away.
+
+### Activities section
+
+- The Activities section on a home page shows all services offered by Wizzards Tower and encourages the user to contact the business.
+
+### Menu section
+
+- Menu section contains information about all cocktails and mocktails business is currently serving. 
+- User is also informed about new cocktails coming shortly.
+- This section also includes video showing new cocktails to encourage users to visit Wizzards Tower.
+
+### Contact form
+
+- Allows users to contact businesses with any inquiries.
+- User is also able to book activities or a table via a contact form.
+- User is able to provide feedback to the business. 
