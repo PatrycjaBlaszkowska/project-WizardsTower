@@ -138,3 +138,9 @@ I made some significant changes to my project. Some features have become unneces
 - I used a different hero photo for mobile devices with a width of the screen under 992 pixels, as the original photo was too big and looks unattractive when scaled.
 - I also made most content appear in two columns on the desktop instead of one for a better user experience.
 - The navigation bar has been moved to the left side on the mobile devices to provide some space between it and a logo. I made this decision to keep the navbar tidy and more user-friendly.
+  
+[Menu page wireframes](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/wireframes/menu.pdf)
+
+- Removed hero photo both from desktop and mobile view as it was taking users attention away from the content. 
+- The menu is appearing in two columns on the desktop instead of one, as it's looking more practical. It's also filling up empty gaps that were looking unattractive on the desktop.
+- The menu page has an additional section for upcoming cocktails for both desktop and mobile devices. I decided to add it after doing my research through websites in the hospitality industry.
