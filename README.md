@@ -169,7 +169,7 @@ I made some significant changes to my project. Some features have become unneces
 
 ### Hero images
 
-- Included to draw the user's attention and show the purpose of the website right away.
+- Included to draw the user's attention and show the purpose of the website stright away.
 
 ### Activities section
 
