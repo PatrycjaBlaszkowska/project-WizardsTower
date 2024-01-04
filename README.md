@@ -144,3 +144,10 @@ I made some significant changes to my project. Some features have become unneces
 - Removed hero photo both from desktop and mobile view as it was taking users attention away from the content. 
 - The menu is appearing in two columns on the desktop instead of one, as it's looking more practical. It's also filling up empty gaps that were looking unattractive on the desktop.
 - The menu page has an additional section for upcoming cocktails for both desktop and mobile devices. I decided to add it after doing my research through websites in the hospitality industry.
+- The navigation bar has been moved to the left side on the mobile devices to provide some space between it and a logo. I made this decision to keep the navbar tidy and more user-friendly.
+  
+[Contact page wireframes](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/wireframes/contact.pdf)
+
+- Removed hero photo both from desktop and mobile view as it was taking users attention away from the content.
+- I decided to change the appearance of the contact form after doing my research. According to the information I obtained, the contact form I decided to use instead is more user-friendly and looks better.
+- The navigation bar has been moved to the left side on the mobile devices to provide some space between it and a logo. I made this decision to keep the navbar tidy and more user-friendly.
