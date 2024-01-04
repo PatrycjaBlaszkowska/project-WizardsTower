@@ -186,3 +186,20 @@ I made some significant changes to my project. Some features have become unneces
 - Allows users to contact businesses with any inquiries.
 - The user is also able to book activities or a table via a contact form.
 - The user is able to provide feedback to the business. 
+
+## Technologies Used
+
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Github](https://github.com/)
+- [Git](https://git-scm.com/)
+- [Bootstrap 4.6](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
+- [jQuery](https://jquery.com/) - Used with Bootstrap.
+- [JavaScript](https://www.javascript.com/) - Used with Bootstrap.
+- [Hover.css](https://ianlunn.github.io/Hover/)
+- [FontAwsome](https://fontawesome.com/)
+- [Balsamiq](https://balsamiq.com/wireframes/?gad_source=1&gclid=Cj0KCQiAy9msBhD0ARIsANbk0A_UrgDIhg_KSUHNCOUn-D9DiHl_9Z1dwScGRuI4JET1bnKbQkqwSb8aArFqEALw_wcB)
+- [Code Anywhere](https://app.codeanywhere.com/)
+- [Google Fonts](https://fonts.google.com/)
+- [QuillBot](https://quillbot.com/)
+- [Google Developer Tools](https://developer.chrome.com/docs/devtools/)
