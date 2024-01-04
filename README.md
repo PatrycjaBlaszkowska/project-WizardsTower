@@ -118,7 +118,7 @@ Both fonts used in this project are Google Fonts.
 
 - Exo font has been used for some headings but also for a navigation bar and menu section. Using a different font for these features helped me highlight important sections to user and made the website easier and quicker to navigate.
 
-#### Images
+### Images
 
 All images used in this project have been downloaded from:
 
