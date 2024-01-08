@@ -236,3 +236,7 @@ I made some significant changes to my project. Some features have become unneces
 - Videos :
     - Youtube video on a menu page is working and linked properly.
     - User can control a video and it won't auto start. 
+
+- Background images :
+    - Menu and contact form background photos are linked correctly.
+    - Images are sucessfully scaling on mobile devices. 
