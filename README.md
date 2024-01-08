@@ -230,6 +230,9 @@ I made some significant changes to my project. Some features have become unneces
 - Contact form links :
     - Links located in the introduction section on a main page and in the new cocktails section are both working properly.
 
+- Activities:
+    - "Divider" photo is sucessfully being removed on mobile devices. 
+
 - Videos :
     - Youtube video on a menu page is working and linked properly.
     - User can control a video and it won't auto start. 
