@@ -222,4 +222,14 @@ I made some significant changes to my project. Some features have become unneces
     - Footer is fully responsive on large/medium/small resolutions.
     - Social media links are working and opening in a new tab.
     - Links to pages are working properly.
-    - Hover CSS is correctly working. (Available on desktop only)
+    - Hover CSS is correctly working. (Available on desktop only).
+
+- Hero image :
+    - Image is succesfully changing for a different on on devices smaller than 922px.
+
+- Contact form links :
+    - Links located in the introduction section on a main page and in the new cocktails section are both working properly.
+
+- Videos :
+    - Youtube video on a menu page is working and linked properly.
+    - User can control a video and it won't auto start. 
