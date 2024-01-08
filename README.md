@@ -203,3 +203,23 @@ I made some significant changes to my project. Some features have become unneces
 - [Google Fonts](https://fonts.google.com/)
 - [QuillBot](https://quillbot.com/)
 - [Google Developer Tools](https://developer.chrome.com/docs/devtools/)
+
+## Testing
+
+### User stories:
+
+[User stories testing](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/testing/testing.md)
+
+### Manual testing
+
+- Navigation bar :
+    - Navigation bar is fully responsive on large/medium/small resolutions.
+    - Navigation bar toggles to a hamburger menu on mobile devices and stays fully responsive
+    - All links to pages are working properly.
+    - Hover CSS is correctly working. (Available on desktop only)
+
+- Footer :
+    - Footer is fully responsive on large/medium/small resolutions.
+    - Social media links are working and opening in a new tab.
+    - Links to pages are working properly.
+    - Hover CSS is correctly working. (Available on desktop only)
