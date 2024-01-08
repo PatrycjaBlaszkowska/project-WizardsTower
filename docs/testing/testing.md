@@ -12,7 +12,7 @@ Every page across the site has a navigation bar fixed to the top of the page. Na
 
     [Mobile navbar](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/testing/navbar_mobile.PNG)
 
-User can also navigate through the webpage from the bottom of each site by using footer links.
+- User can also navigate through the webpage from the bottom of each site by using footer links.
 
     [Footer](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/testing/footer.PNG)
 
