@@ -242,7 +242,7 @@ I made some significant changes to my project. Some features have become unneces
     - Images are successfully scaling on mobile devices. 
 
 - Grid system(Bootstrap) :
-    - Grid system is working as intended sucessuflly changing amount of collumns on smaller devices making website fully responsive. 
+    - Grid system is working as intended successfully changing amount of collumns on smaller devices making website fully responsive. 
 
 - Contact form :
     - The form is working as intended.
@@ -253,3 +253,10 @@ I made some significant changes to my project. Some features have become unneces
 - Thank you page :
     - The page is successfully appearing to the user after filling up the form.
     - The button taking the user back to the home page is working.
+
+#### Devices used during testing:
+
+- Desktop Computer
+- Iphone 13
+- Lenovo Tab M10 Plus
+
