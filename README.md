@@ -315,7 +315,7 @@ However, during testing process below browsers have been used :
 - Navbar wasn't "pushing" content down despite margin and padding :
     - Resolved by adding Bootstrap's "fixed-top" class to the navbar's tag. 
 
-- Activities section was not working properly on smaller devices when created with <div>s and positioned with a float attribute. 
+- Activities section was not working properly on smaller devices when created with div's and positioned with a float attribute. 
   Float caused this section to overlapp content under it on a mobile device :
     - Decided to use Bootstrap's grid system instead. 
 
