@@ -244,3 +244,9 @@ I made some significant changes to my project. Some features have become unneces
 - Grid system(Bootstrap) :
     - Grid system is working as intended sucessuflly changing amount of collumns on smaller devices making website fully responsive. 
 
+- Contact form :
+    - The form is working as intended.
+    - The form is successfully redirecting the user to the "thank you" page.
+    - Submit button is working correctly. 
+    - The form is looking good on smaller devices.
+
