@@ -50,7 +50,7 @@ User can contact business through a contact form. Contact form can be acessed fr
 
 - Potions (introduction) section on a main page. 
 
-![Home page - activities](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/testing/homepage_activities.PNG)
+![Home page - activities](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/testing/homepage_potions.PNG)
 
 - Section introducing new cocktails on the menu page.
 
