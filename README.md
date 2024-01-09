@@ -250,3 +250,6 @@ I made some significant changes to my project. Some features have become unneces
     - Submit button is working correctly. 
     - The form is looking good on smaller devices.
 
+- Thank you page :
+    - The page is successfully appearing to the user after filling up the form.
+    - The button taking the user back to the home page is working.
