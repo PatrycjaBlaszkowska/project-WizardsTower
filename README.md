@@ -325,3 +325,22 @@ However, during testing process below browsers have been used :
 - HTML validator showing 18 info messages due to the built-in code beautifier in CodeAnywhere :
     - Asked other students on Slack.
     - Looked for a similar issue on a stack overflow.
+
+## Deployment 
+
+The master branch of this repository is the most current version and has been used for the deployed version of the site.
+The Code Institiue student template was used to create this project.
+
+[Code Institute Template for CodeAnywhere](https://github.com/Code-Institute-Org/ci-full-template)
+
+1. Click **Use This Template** button.
+2. Give your repository a name, and description.
+3. Open [CodeAnywhere EDI](https://app.codeanywhere.com/) and log into your account.
+4. Click **New Workspace** button.
+5. Create a workspace from your project repository by creating a clone.
+
+### Creating a clone
+
+1. From the repository, click **Code**.
+2. In the **Clone >> HTTPS** section, copy the clone URL for the repository.
+3. Paste a link into the designated area on the CodeAnywhere. 
