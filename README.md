@@ -260,3 +260,24 @@ I made some significant changes to my project. Some features have become unneces
 - Iphone 13
 - Lenovo Tab M10 Plus
 
+### Chrome Dev Tools
+
+Chrome dev tools was used throughout the development of the project to test responsiveness. 
+Responsiveness was tested using Dev Tools to emulate the following devices :
+
+- Iphone SE
+- Iphone XR
+- Iphone 12 Pro
+- Iphone 14 Pro Max
+- Pixel 7
+- Samsung Galaxy S8+
+- Samsung Galaxy S20 Ultra
+- iPad Mini
+- iPad Air
+- iPad Pro
+- Surface Pro 7
+- Surface Duo
+- Galaxy Fold
+- Samsung Galaxy A51/71
+- Nest Hub
+- Nest Hub Max
