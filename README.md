@@ -318,3 +318,9 @@ However, during testing process below browsers have been used :
 - Activities section was not working properly on smaller devices when created with <div>s and positioned with a float attribute. 
   Float caused this section to overlapp content under it on a mobile device :
     - Decided to use Bootstrap's grid system instead. 
+
+### Un-resolved Bugs
+
+- HTML validator showing 18 info messages due to the built-in code beautifier in CodeAnywhere :
+    - Asked other students on Slack.
+    - Looked for a similar issue on a stack overflow.
