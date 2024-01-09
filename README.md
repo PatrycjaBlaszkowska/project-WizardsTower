@@ -344,3 +344,18 @@ The Code Institiue student template was used to create this project.
 1. From the repository, click **Code**.
 2. In the **Clone >> HTTPS** section, copy the clone URL for the repository.
 3. Paste a link into the designated area on the CodeAnywhere. 
+
+## Credits
+
+### Images :
+
+- Pinterest
+- Pixabay
+- Unsplash
+- Wallpapercave
+
+[hero image - desktop](https://unsplash.com/photos/person-holding-wand-on-top-of-bowl-3n7DdlkMfEg)
+[hero image - mobile](https://www.pinterest.jp/pin/132785888997843042/)
+[wizard's tower activities photo](https://wallpapercave.com/magic-forest-wallpapers)
+[menu background photo](https://pixabay.com/photos/candles-pumpkins-witch-skull-1868640/)
+[contact us page photo](https://pixabay.com/photos/candle-lamp-room-inside-furniture-3272201/)
