@@ -291,6 +291,7 @@ However, during testing process below browsers have been used :
 - Microsoft Edge
 - Mozilla Firefox
 - Opera
+- Safari
 
 ### Validation
 
