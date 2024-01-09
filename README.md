@@ -231,7 +231,7 @@ I made some significant changes to my project. Some features have become unneces
     - Links located in the introduction section on a main page and in the new cocktails section are both working properly.
 
 - Activities:
-    - "Divider" photo is sucessfully being removed on mobile devices. 
+    - "Divider" photo is successfully being removed on mobile devices. 
 
 - Videos :
     - Youtube video on a menu page is working and linked properly.
@@ -239,4 +239,8 @@ I made some significant changes to my project. Some features have become unneces
 
 - Background images :
     - Menu and contact form background photos are linked correctly.
-    - Images are sucessfully scaling on mobile devices. 
+    - Images are successfully scaling on mobile devices. 
+
+- Grid system(Bootstrap) :
+    - Grid system is working as intended sucessuflly changing amount of collumns on smaller devices making website fully responsive. 
+
