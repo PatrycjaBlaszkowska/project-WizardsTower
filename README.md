@@ -365,3 +365,17 @@ The Code Institiue student template was used to create this project.
 - Youtube
 
 [New cocktails video on menu page](https://www.youtube.com/watch?v=kiWn5G9ODOw&ab_channel=Specs1962)
+
+### Code :
+
+- [Hover.css](https://ianlunn.github.io/Hover/) :
+    - Used for hovering effects.
+
+- [Code Institute, Love running project](https://github.com/Code-Institute-Solutions/Love-Running-Solutions) :
+    - Inspiration for a contact page/form.
+
+- [Bootstrap version 4.6](https://getbootstrap.com/docs/4.6/getting-started/introduction/) :
+    - Used for navigation bar, grid system, contact form.
+
+- [Font Awesome](https://fontawesome.com/) :
+    - Used for all icons across the website.
