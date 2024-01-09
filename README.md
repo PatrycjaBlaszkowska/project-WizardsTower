@@ -354,8 +354,14 @@ The Code Institiue student template was used to create this project.
 - Unsplash
 - Wallpapercave
 
-[hero image - desktop](https://unsplash.com/photos/person-holding-wand-on-top-of-bowl-3n7DdlkMfEg)
-[hero image - mobile](https://www.pinterest.jp/pin/132785888997843042/)
-[wizard's tower activities photo](https://wallpapercave.com/magic-forest-wallpapers)
-[menu background photo](https://pixabay.com/photos/candles-pumpkins-witch-skull-1868640/)
-[contact us page photo](https://pixabay.com/photos/candle-lamp-room-inside-furniture-3272201/)
+[Hero image - desktop](https://unsplash.com/photos/person-holding-wand-on-top-of-bowl-3n7DdlkMfEg)
+[Hero image - mobile](https://www.pinterest.jp/pin/132785888997843042/)
+[Wizard's tower activities photo](https://wallpapercave.com/magic-forest-wallpapers)
+[Menu background photo](https://pixabay.com/photos/candles-pumpkins-witch-skull-1868640/)
+[Contact us page photo](https://pixabay.com/photos/candle-lamp-room-inside-furniture-3272201/)
+
+### Videos :
+
+- Youtube
+
+[New cocktails video on menu page](https://www.youtube.com/watch?v=kiWn5G9ODOw&ab_channel=Specs1962)
