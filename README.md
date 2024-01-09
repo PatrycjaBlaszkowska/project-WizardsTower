@@ -379,3 +379,10 @@ The Code Institiue student template was used to create this project.
 
 - [Font Awesome](https://fontawesome.com/) :
     - Used for all icons across the website.
+
+### Cocktails and mocktails specs / recipes
+
+- [Cocktails](https://dinewithdrinks.com/best-magic-themed-cocktails?fbclid=IwAR2cZ37X4-JpNm5xbG__DC-Kgg0GowdF6LWfBy797xNa8e2M_6toNz7MeiI)
+- [Mocktails](https://advancedmixology.com/blogs/art-of-mixology/halloween-mocktail-recipes?utm_content=cmp-true&fbclid=IwAR08RSi3WEdzah0ay4dHni9KvTIi5GvgeGQA_xPr1ywQSusQgO0UGSqtTZA)
+
+I mixed some recipes from both sites to create few "unique" potions. 
