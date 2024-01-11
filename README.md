@@ -199,7 +199,7 @@ I made some significant changes to my project. Some features have become unneces
 
 - The activities section on a home page shows all services offered by Wizzards Tower and encourages the user to contact the business.
 
-![Home page - activities](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/testing/hero-image-mobile-feature.PNG)
+![Home page - activities](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/testing/homepage-potions.PNG)
 
 ### Menu section :
 
