@@ -162,18 +162,38 @@ I made some significant changes to my project. Some features have become unneces
 - Navbar toggles to a hamburger menu on mobile devices. 
 - The user can navigate across the site freely.
 
+**Desktop** : 
+
+![Desktop navbar](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/testing/navbar-desktop.PNG)
+
+**Mobile** :
+
+![Mobile navbar](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/testing/navbar-mobile.PNG)
+
 ### Footer :
 
 - Footer is present on every page, for the user who wishes to navigate to the pages from the bottom, rather than having to scroll up.
 - Footer contains social media links that are opening in a new tab.
 
-### Hero images
+![Footer](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/testing/footer.PNG)
+
+### Hero images :
 
 - Included to draw the user's attention and show the purpose of the website stright away.
+
+**Desktop** :
+
+![Hero image desktop](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/testing/hero-image-desktop-feature.PNG)
+
+**Mobile** :
+
+![Hero image mobile](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/testing/hero-image-mobile-feature.PNG)
 
 ### Activities section
 
 - The Activities section on a home page shows all services offered by Wizzards Tower and encourages the user to contact the business.
+
+![Home page - activities](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/testing/homepage-activities.PNG)
 
 ### Menu section
 
@@ -181,11 +201,15 @@ I made some significant changes to my project. Some features have become unneces
 - The user is also informed about new cocktails coming shortly.
 - This section also includes video showing new cocktails to encourage users to visit Wizzards Tower.
 
+![Menu](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/testing/menu.PNG)
+
 ### Contact form
 
 - Allows users to contact businesses with any inquiries.
 - The user is also able to book activities or a table via a contact form.
 - The user is able to provide feedback to the business. 
+
+![Contact form](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/testing/contact-form.PNG)
 
 ## Technologies Used
 
@@ -206,7 +230,7 @@ I made some significant changes to my project. Some features have become unneces
 
 ## Testing
 
-### User stories:
+### User stories :
 
 [User stories testing](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/testing/testing.md)
 
