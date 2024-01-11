@@ -201,7 +201,7 @@ I made some significant changes to my project. Some features have become unneces
 
 - The introduction section shows the purpose of the business right away, so the user can determine if this website is useful for him within the first few minutes.
 
-![Home page - activities](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/testing/homepage-potions.PNG)
+![Home page - activities](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/testing/homepage-activites.PNG)
 
 ### Activities section :
 
@@ -252,7 +252,7 @@ I made some significant changes to my project. Some features have become unneces
 
 - Navigation bar :
     - Navigation bar is fully responsive on large/medium/small resolutions.
-    - Navigation bar toggles to a hamburger menu on mobile devices and stays fully responsive
+    - Navigation bar toggles to a hamburger menu on mobile devices and stays fully responsive.
     - All links to pages are working properly.
     - Hover CSS is correctly working. (Available on desktop only)
 
@@ -387,7 +387,7 @@ The Code Institiue student template was used to create this project.
 
 1. From the repository, click **Fork**.
 2. Give your repository a name.
-3. Click **Create fork**
+3. Click **Create fork**.
 
 ## Credits
 
