@@ -301,7 +301,7 @@ However, during testing process below browsers have been used :
 - 0 warnings
 - 18 info messages which are cased by CodeAnywhere's built-in code beautifier. CodeAnywhere is adding closing tag to the self-closing tags and causing this info messages.
 
-![HTML validator results](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/testing/HTML_validator.PNG)
+![HTML validator results](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/testing/HTML-validator.PNG)
 
 [CSS validator](https://jigsaw.w3.org/css-validator/)
 
@@ -309,7 +309,7 @@ However, during testing process below browsers have been used :
 - 0 warnings
 - 0 info messages
 
-![CSS validator results](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/testing/CSS_validator.PNG)
+![CSS validator results](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/testing/CSS-validator.PNG)
 
 ### Bugs and Fixes
 
