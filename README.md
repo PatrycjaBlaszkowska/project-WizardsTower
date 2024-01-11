@@ -187,7 +187,7 @@ I made some significant changes to my project. Some features have become unneces
 
 **Mobile** :
 
-![Hero image mobile](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/testing/hero-image-mobile-feature.PNG)
+![Hero image mobile](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/testing/hero-image-mobile-feature.)
 
 ### Activities section
 
