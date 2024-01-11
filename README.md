@@ -201,13 +201,13 @@ I made some significant changes to my project. Some features have become unneces
 
 - The introduction section shows the purpose of the business right away, so the user can determine if this website is useful for him within the first few minutes.
 
-![Home page - activities](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/testing/homepage-activites.PNG)
+![Home page - introduction](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/testing/homepage-potions.PNG)
 
 ### Activities section :
 
 - The activities section on a home page shows all services offered by Wizzards Tower and encourages the user to contact the business.
 
-![Home page - activities](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/testing/homepage-potions.PNG)
+![Home page - activities](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/testing/homepage-activities.PNG)
 
 ### Menu section :
 
@@ -430,3 +430,6 @@ The Code Institiue student template was used to create this project.
 - [Mocktails](https://advancedmixology.com/blogs/art-of-mixology/halloween-mocktail-recipes?utm_content=cmp-true&fbclid=IwAR08RSi3WEdzah0ay4dHni9KvTIi5GvgeGQA_xPr1ywQSusQgO0UGSqtTZA)
 
 I mixed some recipes from both sites to create few "unique" potions. 
+
+
+## Thank you to everyone who read this documentation! 
