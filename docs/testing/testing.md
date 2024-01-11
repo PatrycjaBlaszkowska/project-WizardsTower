@@ -4,11 +4,11 @@
 
 Every page across the site has a navigation bar fixed to the top of the page. Navbar toggles to a hamburger menu on mobile devices but stays fully responsive. 
 
-- Desktop:
+- Desktop :
 
 ![Desktop navbar](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/testing/navbar-desktop.PNG)
 
-- Mobile:
+- Mobile :
 
 ![Mobile navbar](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/testing/navbar-mobile.PNG)
 
@@ -27,7 +27,7 @@ The user can see that Wizards Tower is a cocktail bar serving potions, which are
 
 The home page is also showing all available activities, so the user can easily find them.
 
-- Activities:
+- Activities :
 
 ![Home page - activities](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/testing/homepage-activities.PNG)
 
@@ -39,12 +39,12 @@ The home page is also showing all available activities, so the user can easily f
 
 User can contact business through a contact form. Contact form can be acessed from:
 
-- Navigation bar:
+- Navigation bar :
 
 ![Desktop navbar](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/testing/navbar-desktop.PNG)
 ![Mobile navbar](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/testing/navbar-mobile.PNG)
 
-- Footer:
+- Footer :
 
 ![Footer](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/testing/footer.PNG)
 
