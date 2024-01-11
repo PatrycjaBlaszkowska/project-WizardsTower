@@ -93,26 +93,26 @@ I thought of the features I wanted to implement before designing the project, an
 - Footer
 - Buttons
 
-![#505253 Hex Color](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/images/#505253.PNG)
+![#505253 Hex Color](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/images/%23505253.PNG)
   
 #000 :
 - Background of some sections
  
-![#000 Hex Color](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/images/#000.PNG)
+![#000 Hex Color](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/images/%23000.PNG)
 
 #FAFAFA :
 - Text
 - Borders
 - Icons
 
-![#FAFAFA Hex Color](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/images/#FAFAFA.PNG)
+![#FAFAFA Hex Color](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/images/%23FAFAFA.PNG)
 
 #EBE5E5 :
 - Footer text
 - Social links
 - Icons
 
-![#EBE5E5 Hex Color](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/images/#EBE5E5.PNG)
+![#EBE5E5 Hex Color](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/images/%23EBE5E5.PNG)
 
 ### Fonts
 
