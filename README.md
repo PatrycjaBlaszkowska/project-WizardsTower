@@ -187,7 +187,7 @@ I made some significant changes to my project. Some features have become unneces
 
 **Mobile** :
 
-![Hero image mobile](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/testing/hero-image-mobile-feature.)
+![Hero image mobile](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/testing/hero-image-mobile-feature.PNG)
 
 ### Introduction section :
 
@@ -374,6 +374,12 @@ The Code Institiue student template was used to create this project.
 1. From the repository, click **Code**.
 2. In the **Clone >> HTTPS** section, copy the clone URL for the repository.
 3. Paste a link into the designated area on the CodeAnywhere. 
+
+### Forking
+
+1. From the repository, click **Fork**.
+2. Give your repository a name.
+3. Click **Create fork**
 
 ## Credits
 
