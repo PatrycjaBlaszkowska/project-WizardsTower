@@ -189,13 +189,19 @@ I made some significant changes to my project. Some features have become unneces
 
 ![Hero image mobile](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/testing/hero-image-mobile-feature.)
 
-### Activities section
+### Introduction section :
 
-- The Activities section on a home page shows all services offered by Wizzards Tower and encourages the user to contact the business.
+- The introduction section shows the purpose of the business right away, so the user can determine if this website is useful for him within the first few minutes.
 
-![Home page - activities](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/testing/homepage-activities.PNG)
+![Home page - activities](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/testing/homepage-potions.PNG)
 
-### Menu section
+### Activities section :
+
+- The activities section on a home page shows all services offered by Wizzards Tower and encourages the user to contact the business.
+
+![Home page - activities](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/testing/hero-image-mobile-feature.PNG)
+
+### Menu section :
 
 - Menu section contains information about all cocktails and mocktails business is currently serving. 
 - The user is also informed about new cocktails coming shortly.
@@ -203,7 +209,7 @@ I made some significant changes to my project. Some features have become unneces
 
 ![Menu](https://github.com/PatrycjaBlaszkowska/project-WizardsTower/blob/main/docs/testing/menu.PNG)
 
-### Contact form
+### Contact form :
 
 - Allows users to contact businesses with any inquiries.
 - The user is also able to book activities or a table via a contact form.
